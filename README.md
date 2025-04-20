@@ -71,8 +71,11 @@ Any suggestion or improvement is welcome.
 
 ## 👨‍💻 Author
 
-**Ibrahim Adel (0xmuka)**  
-[LinkedIn](https://www.linkedin.com/in/0xmuka/)  
+**Ibrahim Sallam (0xmuka)**  
+[LinkedIn](https://www.linkedin.com/in/0xmuka/)
+
+[Twitter](https://x.com/muka0x00/)
+
 Email: coming soon...
 
 ---
