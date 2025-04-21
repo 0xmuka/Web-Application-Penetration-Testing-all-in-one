@@ -1,9 +1,7 @@
 # 🛡️ Web Application Penetration Testing - All in One
 ![image](https://github.com/user-attachments/assets/8d83133e-974d-418a-8acb-1340c2f3d55d)
 
-Welcome to **Web Application Penetration Testing - All in One**, a full roadmap to learn how to test, break, and secure modern web applications.
-
-This repository connects all the foundational skills and specialized resources you need to become a **Web App Pentester**.
+Welcome to **Web Application Penetration Testing - All in One**, This repository connects all the foundational skills and specialized resources you need to become a **Web App Pentester**.
 
 ---
 
