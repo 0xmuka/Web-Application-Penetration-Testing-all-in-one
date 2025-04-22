@@ -8,7 +8,7 @@ This is not a roadmap, and it's not meant to be followed step by step. It's a co
 ---
 
 ### 🐧 Linux & Bash Scripting (Essentials)
-Master Linux command line and automation with Bash — a must-have for any hacker or sysadmin.
+Master Linux command line and automation with Bash
 
 📁 Repo: [Linux Command Line and Bash Scripting](https://github.com/0xmuka/Linux-Command-Line-and-Bash-Scripting)
 
@@ -21,7 +21,7 @@ Understand the OSI model, TCP/IP, ports, protocols, DNS, firewalls, scanning —
 
 ---
 
-### 🐍 Python for Pentesters
+### 🐍 Python Fundamentals
 Python scripting is crucial for automating tasks, writing exploits, interacting with APIs, and more.
 
 📁 Repo: [Mastering Python](https://github.com/0xmuka/mastering_python)
